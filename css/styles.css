@@ -11851,7 +11851,7 @@ section.resume-section .resume-section-content {
 }
 .flags {
   text-align: center;
-  padding-top: 15px;
+  padding-top: 30px;
 }
 .p-flag {
   margin-top: 30px;
@@ -11870,4 +11870,8 @@ section.resume-section .resume-section-content {
 }
 .code {
   font-size: 70%;
+}
+#google_translate_element {
+  text-align: right;
+  margin: 20px;
 }
